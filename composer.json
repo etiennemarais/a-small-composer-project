@@ -1,0 +1,15 @@
+{
+    "name": "etiennemarais/a-small-composer-project",
+    "authors": [
+        {
+            "name": "Etienne Marais",
+            "email": "etienne.m@superbalist.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "src/"
+        }
+    },
+    "require": {}
+}
